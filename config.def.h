@@ -21,10 +21,8 @@ static const Rule rules[] = {
 	 */
 	/* class      instance    title       tags mask     isfloating   monitor */
 	{ "Firefox",     NULL,       NULL,        1 << 1,       0,           -1 },
-	{ "Chromium",    NULL,       NULL,        1 << 1,       0,           -1 },
 	{ "Emacs",       NULL,       NULL,        1 << 4,       0,           -1 },
         { "Xreader",     NULL,       NULL,        1 << 3,       0,           -1 },
-        { "Evince",      NULL,       NULL,        1 << 3,       0,           -1 },
 	{ "qpdfview",    NULL,       NULL,        1 << 3,       0,           -1 },
 	{ "pcmanfm-qt",  NULL,       NULL,        1 << 4,       0,           -1 },
 	{ "Vlc",         NULL,       NULL,        1 << 5,       0,           -1 },
